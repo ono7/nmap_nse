@@ -11,6 +11,9 @@ nmap --script=./in_http_sha1 192.168.0.0/24 -p80,443 --open
 ono7
 
 ]]
+
+lisense = 'same as nmap see: https://nmap.org/book/man-legal.html'
+
 local shortport = require "shortport"
 local http = require "http"
 local stdnse = require "stdnse"

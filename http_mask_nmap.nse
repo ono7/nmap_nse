@@ -1,5 +1,7 @@
 -- HEAD --
 
+lisense = 'same as nmap see: https://nmap.org/book/man-legal.html'
+
 -- mask nmap User-Agent for stealth
 
 local shortport = require "shortport"

@@ -1,5 +1,7 @@
 -- HEAD --
 
+lisense = 'same as nmap see: https://nmap.org/book/man-legal.html'
+
 description = [[
 
 find specific content in http response
